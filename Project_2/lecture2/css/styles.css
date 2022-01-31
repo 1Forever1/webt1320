@@ -1,47 +1,94 @@
 body { background-color: #4C5973;
+    font-family: 'Beasley',serif;
 }
-
 #container { 
-    width: 1024px;
     background-color: #f2CA99;
+    width: 900px;
     margin: 20px auto;
-    border: 4px solid #5084F2;
     border-radius: 20px;
-
+    box-shadow: 5px 5px 10px #000;
 }
-
-header {
+header { 
+    padding: 20px 0;
     background-color: #F26D6D;
-    border-radius:20px 20px 0 0;
+    border-radius: 20px 20px 0 0;
 }
-
-
 header img {
-    width: 40%;
+    width: 30%;
     display: block;
     margin: 0 auto;
-    padding: 10px;
-
-
+}
+Header h1 {
+    font-size: 2.5em;
+    text-align: center;
+    color: #f2CA99;
+    font-family: 'Oswald', sans-serif;
+    text-shadow: #000;
+}
+nav {
+    Background-color: #5084f2;
+    padding-top: 10px;
+    text-align: center;
+}
+nav a {
+    display: inline-block;
+    background-color: #f2CA99;
+    height: 50px;
+    width: 175px;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 50px;
+    color: #F26D6D;
+    text-decoration: none;
+    border-radius: 10px 10px 0 0;
+    margin: 0 10px;
+}
+nav a:hover {
+    background-color:#F26D6D;
+    color: #f2CA99;
 }
 main {
-    background-color: #5084F2 ;
-    margin: 20px auto;
-    width: 800px;
+    background-color: #5084F2;
     padding: 20px;
-    border: 4px solid #F26D6D;
+    margin: 0 20px 20px;
+}
+main h2 {
+    text-align: center;
+    color: #f2CA99;
+    font-size: 2em;
+    font-family: 'Oswald', sans-serif;
+}
+main h3 {
+    text-align: center;
+    color: #4C5973
 
 }
-
 main img {
-    width: 35%;
-    display:block;
+    width: 50%;
+    display: block;
     margin: 20px auto;
     border-radius: 20px;
+    padding: 20px;
+    background-color: #F26D6D
 }
 footer {
     background-color: #F26D6D;
-    border-radius: 0 0 20px 20px;
+    padding:60px 0;
+    color: #f2CA99;
+    font-size: 1.5em;
     text-align: center;
-    padding: 40px;
+    border-radius: 0 0 20px 20px;
 }
+:active { 
+    background-color:#F26D6D;
+    color: #f2CA99;
+}
+.Pro_head {
+    text-align: center;
+    color:aqua;
+    font-size: 1.5em;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+
