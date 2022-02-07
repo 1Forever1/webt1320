@@ -1,16 +1,16 @@
-body { background-color: #07245e;
+body { background-color: #261BFA;
     font-family: 'Nanum Myeongjo', serif;
 }
 #container { 
-    background-color: #5f5e5c;
+    background-color: #7C1ADB;
     width: 900px;
     margin: 20px auto;
     border-radius: 20px;
-    box-shadow: 5px 5px 10px #4C5973
+    box-shadow: 5px 5px 10px #FEC6B9
 }
 header { 
     padding-top: 20px;
-    background-color: #921e37;
+    background-color: #EC29F2;
     border-radius: 20px 20px 0 0;
 }
 header img {
@@ -71,9 +71,9 @@ main img {
     background-color: #921e37
 }
 footer {
-    background-color: #921e37;
+    background-color: #EC29F2;
     padding:60px 0;
-    color: #07245e;
+    color: #FEC6B9;
     font-size: 1.5em;
     text-align: center;
     border-radius: 0 0 20px 20px;
