@@ -1,92 +1,36 @@
 body { background-color: #261BFA;
-    font-family: 'Nanum Myeongjo', serif;
 }
-#container { 
-    background-color: #7C1ADB;
-    width: 900px;
-    margin: 20px auto;
-    border-radius: 20px;
-    box-shadow: 5px 5px 10px #FEC6B9
-}
-header { 
-    padding-top: 20px;
-    background-color: #EC29F2;
-    border-radius: 20px 20px 0 0;
-}
-header img {
-    width: 30%;
+img{
     display: block;
+    max-width: 100%;
     margin: 0 auto;
 }
-Header h1 {
-    font-size: 2.5em;
-    text-align: center;
-    color: #FEC6B9;
-    font-family: 'Nanum Myeongjo', serif;
-}
-nav {
-    Background-color: #7C1ADB;
-    padding-top: 10px;
-    text-align: center;
-}
-nav a {
-    display: inline-block;
-    background-color: #DB1A44;
-    height: 50px;
-    width: 175px;
-    font-size: 1.5em;
-    font-weight: bold;
-    line-height: 50px;
-    color: #07245e;
-    text-decoration: none;
-    border-radius: 20px 20px 0 0;
-    margin: 0 10px;
-}
-nav a:hover {
-    background-color:#07245e;
-    color: #921e37;
-}
-main {
-    background-color: #261BFA;
-    padding: 20px;
-    margin: 0 20px 20px 20px;
-}
-main h2 {
-    text-align: center;
-    color: #FEC6B9;
-    font-size: 1.5em;
-    font-family: 'Nanum Myeongjo', serif;
-}
-main h3 {
-    text-align: center;
-    color: #FEC6B9;
+/* Mobile Styles */
 
+#container { 
+    background-color: #7C1ADB;
+    margin: 20px; 
+    box-shadow: 5px 5px 10px #FEC6B9;
 }
-main img {
-    width: 50%;
-    display: block;
-    margin: 20px auto;
-    border-radius: 20px;
+header { 
     padding: 20px;
-    background-color: #DB1A44;
+    border-bottom: 4px solid #EC29F2;
 }
-footer {
-    background-color: #EC29F2;
-    padding:60px 0;
-    color: #FEC6B9;
-    font-size: 1.5em;
+Header h1 {
     text-align: center;
-    border-radius: 0 0 20px 20px;
 }
-:active { 
-    background-color:#EC29F2;
-    color: #FEC6B9;
+.col {
+    border: 4px; solid #EC29F2;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
 }
-.Pro_head {
+.col h2 {
     text-align: center;
-    color: #FEC6B9;
-    font-size: 1.5em;
-    font-family: 'Nanum Myeongjo', serif;
+    font-size: 2em;
+}
+.col img {
+    width: 50%;
 }
 
 
