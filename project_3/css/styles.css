@@ -11,19 +11,19 @@ img {
 /* Mobile Styles */
 
 #container { 
-    background-color: #7C1ADB;
+    background-color: #EC29F2
     margin: 20px; 
 }
 header { 
     padding: 60px 40px;
-    border-bottom: 4px solid #EC29F2;
+    border-bottom: 4px solid #7C1ADB;
 }
 Header h1 {
     text-align: center;
     font-size: 2.5em;
 }
 .col {
-    border: 4px solid #EC29F2;
+    border: 4px solid #7C1ADB;
     padding: 20px;
     margin: 20px;
     border-radius: 20px;
@@ -41,7 +41,7 @@ Header h1 {
 footer {
     padding: 60px 0;
     text-align: center;
-    border-top: 4px solid #EC29F2;
+    border-top: 4px solid #7C1ADB;
     font-weight: bold;
 }
 @media(min-width: 768px) {
