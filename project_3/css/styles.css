@@ -1,7 +1,8 @@
-body { background-color: #261BFA;
+body { 
+    background-color: #261BFA;
     font-size: 18px;
 }
-img{
+img {
     display: block;
     max-width: 100%;
     margin: 0 auto;
@@ -13,12 +14,12 @@ img{
     margin: 20px; 
 }
 header { 
-    padding: 60px 20px;
+    padding: 60px 40px;
     border-bottom: 4px solid #EC29F2;
 }
 Header h1 {
     text-align: center;
-    font-size: 3em;
+    font-size: 2.5em;
 }
 .col {
     border: 15px solid #EC29F2;
@@ -74,4 +75,3 @@ footer {
         width: 30%;
         margin: 20px;
     }
-}
