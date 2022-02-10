@@ -4,7 +4,7 @@
 
 
 <ul>
-   <li><a href="project_3/index.html" target="_blank">Project_3</a></li>
+   <li><a href="Project_3/index.html" target="_blank">Project_3</a></li>
  </ul>
 
 
