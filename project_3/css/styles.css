@@ -37,10 +37,10 @@ Header h1 {
     display: none;
 }
 footer {
-    padding: 40px 0;
+    padding: 60px 0;
     text-align: center;
     border-top: 4px solid #EC29F2;
-    font-family: bold;
+    font-weight: bold;
 }
 @media(min-width: 768px) {
     container {
