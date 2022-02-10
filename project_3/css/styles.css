@@ -8,7 +8,6 @@ img {
     max-width: 100%;
     margin: 0 auto;
 }
-
 /* Mobile Styles */
 
 #container { 
@@ -72,8 +71,9 @@ footer {
     .col img {
         width: 40%
     }
-    .main_imgh {
+    .main_img {
         display: block;
         width: 30%;
         margin: 20px;
     }
+}
