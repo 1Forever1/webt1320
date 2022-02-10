@@ -1,6 +1,7 @@
 body { 
     background-color: #261BFA;
     font-size: 18px;
+    font-family: 'Volkhov', serif;
 }
 img {
     display: block;
@@ -76,4 +77,3 @@ footer {
         width: 30%;
         margin: 20px;
     }
-}
