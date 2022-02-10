@@ -13,7 +13,7 @@ img{
     margin: 20px; 
 }
 header { 
-    padding: 20px;
+    padding: 60px 20px;
     border-bottom: 4px solid #EC29F2;
 }
 Header h1 {
@@ -30,10 +30,6 @@ Header h1 {
     text-align: center;
     font-size: 2em;
 }
-.col h3 {
-    text-align: center;
-    font-size: 2em;
-}
 .col img {
     width: 50%;
 }
@@ -46,6 +42,36 @@ footer {
     border-top: 4px solid #EC29F2;
     font-family: bold;
 }
-
-
-
+@media(min-width: 768px) {
+    container {
+        width: 90%;
+        margin: 20px auto;
+    }
+.col {
+    width: 65%;
+    margin: 20px auto;
+}
+.col img {
+    width: 30%;
+}
+@media(min-width: 1024px) {
+    #container {
+        width: 50%;
+        border-radius: 20px;
+    }
+    #flex {
+        display: flex;
+    }
+    .col {
+        margin:20px;
+        width: 100%;
+    }
+    .col img {
+        width: 40%
+    }
+    .main_imgh {
+        display: block;
+        width: 30%;
+        margin: 20px;
+    }
+}
