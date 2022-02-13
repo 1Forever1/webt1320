@@ -20,7 +20,14 @@ header h1 {
     text-shadow: 2px 2px 2px #000;
     text-align: center;
 }
-nav ul a {
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav li {
+    display: block;
+}
+nav li a {
     display: block;
     background-color: #D66853;
     color:#EDAD74;
@@ -33,6 +40,10 @@ nav ul a {
     border-radius: 10px;
 
 }
+nav li a:hover {
+    background-color: #F7856D;
+    text-shadow: 2px 2px 2px #000;
+}
 
 nav, section, aside, .col, footer {
 background-color: #F7856D;
@@ -41,7 +52,28 @@ margin: 10px;
 border: 4px solid #F7CE6D;
 border-radius: 10px;
 }
+h2, h3 {
+    color: #F7CE6D;
+    text-shadow:2px 2px 2px #000;
+    font-size: 1.5;
+    text-align: center;
+}
+section img, aside img {
+    width: 65%;
+}
+.button {
+    display: block;
+    background-color: #D66853;
+    color:#EDAD74;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.2em;
+    margin: 10px 0;
+    border-radius: 10px;
 
+}
 /* Tablet Styles*/
 
 
