@@ -43,6 +43,7 @@ nav li a {
 nav li a:hover {
     background-color: #F7CE6D;
     text-shadow: 2px 2px 2px #000;
+    color: #F7856D;
 }
 
 nav, section, aside, .col, footer {
