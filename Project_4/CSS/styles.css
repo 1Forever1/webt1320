@@ -20,6 +20,19 @@ header h1 {
     text-shadow: 2px 2px 2px #000;
     text-align: center;
 }
+nav ul a {
+    display: block;
+    background-color: #D66853;
+    color:#EDAD74;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.2em;
+    margin: 10px 0;
+    border-radius: 10px;
+
+}
 
 nav, section, aside, .col, footer {
 background-color: #F7856D;
