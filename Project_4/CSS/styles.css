@@ -75,6 +75,15 @@ section img, aside img {
     border-radius: 10px;
 
 }
+.button:hover {
+    background-color: #F7CE6D;
+    text-shadow: 2px 2px 2px #000;
+    color: #F7856D;
+}
+footer {
+    text-align: center;
+    color: #F7CE6D;
+}
 /* Tablet Styles*/
 
 
