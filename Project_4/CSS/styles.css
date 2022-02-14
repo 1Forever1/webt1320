@@ -9,6 +9,10 @@ img {
 }
 
 /* Moblie Styles*/
+#container {
+    background-color: #D66853;
+
+}
 
 header {
     background-image: url('../images/gcourse1.jpg');
@@ -19,6 +23,13 @@ header h1 {
     color: #D6A75E;
     text-shadow: 2px 2px 2px #000;
     text-align: center;
+}
+nav, section, aside, .col, footer {
+    background-color: #D66853;
+    padding: 10px;
+    margin: 10px;
+    border: 4px solid #F7CE6D;
+    border-radius: 10px;
 }
 nav ul {
     list-style-type: none;
