@@ -98,6 +98,15 @@ iframe {
     display: block;
     margin: 20px auto;
 }
+.gallery_img {
+    border: 4px solid #F7CE6D;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+table {
+    display: none;
+}
+
 /* Tablet Styles*/
 
 @media(min-width: 768px) {
@@ -164,4 +173,22 @@ iframe {
     .col img {
         width: 100%;
     }
+
+table, tr,td {
+    border: 4px solid #F7856D;
+    padding: 10px;
+    margin:10px;
 }
+table img {
+    width: 100%;
+}
+.gallery {
+    display: none;
+}
+table {
+    display: block;
+
+}
+}
+
+
