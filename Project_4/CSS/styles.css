@@ -16,7 +16,7 @@ img {
 
 header {
     background-image: url('../images/candy.jpg');
-    background-size: cover;
+    background-size: 80%;
     padding: 70px 0;
 }
 header h1 {
