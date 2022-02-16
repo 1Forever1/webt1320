@@ -168,7 +168,10 @@ table {
         width: 100%;
     }
     .col img {
-        width: 50%;
+        width: 100%;
+    }
+    .single col {
+        width: 100%;
     }
 
 table, tr,td {
