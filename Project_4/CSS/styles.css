@@ -66,8 +66,8 @@ h2, h3 {
 }
 .button {
     display: block;
-    background-color: #D66853;
-    color:#EDAD74;
+    background-color: #049DD9;
+    color:#F27405;
     height: 40px;
     width: 200px;
     line-height: 40px;
@@ -79,13 +79,13 @@ h2, h3 {
 
 }
 .button:hover {
-    background-color: #F7CE6D;
+    background-color: #F27405;
     text-shadow: 2px 2px 2px #000;
-    color: #F7856D;
+    color: #049DD9;
 }
 footer {
     text-align: center;
-    color: #F7CE6D;
+    color: #049DD9;
 }
 .single_col {
     width: 83%;
