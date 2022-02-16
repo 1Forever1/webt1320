@@ -44,9 +44,9 @@ nav li a {
     border-radius: 10px;
 }
 nav li a:hover {
-    background-color: #F7CE6D;
+    background-color: #049DD9;
     text-shadow: 2px 2px 2px #000;
-    color: #F7856D;
+    color: #F27405;
 }
 nav, section, aside, .col, footer {
 background-color: #F7856D;
