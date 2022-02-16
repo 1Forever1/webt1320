@@ -165,7 +165,7 @@ table {
         display: flex;
     }
     .col {
-        width: 80%;
+        width: 100%;
     }
     .col img {
         width: 80%;
