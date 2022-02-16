@@ -69,11 +69,12 @@ h2, h3 {
     background-color: #D66853;
     color:#EDAD74;
     height: 40px;
+    width: 200px;
     line-height: 40px;
     text-align: center;
     text-decoration: none;
-    font-size: 1.2em;
-    margin: 10px 0;
+    font-size: 1em;
+    margin: 10px auto;
     border-radius: 10px;
 
 }
