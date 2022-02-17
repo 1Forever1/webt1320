@@ -94,6 +94,7 @@ audio, video {
     display: block;
     margin: 20px auto;
     width: 75%;
+    Height: 50%;
 }
 iframe {
     display: block;
