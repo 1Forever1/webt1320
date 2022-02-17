@@ -95,6 +95,8 @@ audio, video {
     margin: 20px auto;
 }
 .video {
+    display:block;
+    margin: 20px auto;
     width: 75%;
     Height: 10%;
 }
