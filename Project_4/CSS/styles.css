@@ -94,12 +94,9 @@ audio, video {
     display: block;
     margin: 20px auto;
     width: 75%;
-    height: 10%;
+    height: 25%;
 }
-iframe {
-    display: block;
-    margin: 20px auto;
-}
+
 .gallery_img {
     border: 4px solid #F27405;
     border-radius: 10px;
