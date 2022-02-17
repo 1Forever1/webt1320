@@ -93,6 +93,8 @@ footer {
 audio, video {
     display: block;
     margin: 20px auto;
+}
+.video {
     width: 75%;
     Height: 10%;
 }
